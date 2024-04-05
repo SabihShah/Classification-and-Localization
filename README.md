@@ -7,7 +7,7 @@ This repository serves as a resource for researchers, students, and practitioner
 ### Dataset
 - This repo uses the PASCAL VOC 2012 dataset and for understanding and simplicity, only images with one detected object are selected.
 <div align="center">
-  <img src="image/out.png" width="300" height="300">
+  <img src="Images/out.png" width="300" height="300">
 </div>
 
 ### Model
@@ -18,5 +18,5 @@ This repository serves as a resource for researchers, students, and practitioner
 ### IoU
 Intersection over Union is a highly intuitive metric. IoU is calculated by dividing the overlap between the predicted and ground truth annotation by the union of these.
 <div align="center">
-  <img src="image/IoU.png" width="300" height="300">
+  <img src="Images/IoU.png" width="300" height="300">
 </div>
