@@ -7,7 +7,7 @@ This repository serves as a resource for researchers, students, and practitioner
 ### Dataset
 - This repo uses the PASCAL VOC 2012 dataset and for understanding and simplicity, only images with one detected object are selected.
 <div align="center">
-  <img src="Images/out.png" width="300" height="300">
+  <img src="Images/output.png" width="300" height="300">
 </div>
 
 ### Model
